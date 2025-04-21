@@ -95,6 +95,21 @@
 
 ---
 
+## 📁 Getting Started
+
+1. Download the `.pbix` file from this repository.
+2. Open it in Power BI Desktop.
+3. If necessary, update the data source path.
+
+---
+
+## 📊 Data Source
+
+- Synthetic Candy Distributor dataset downloaded from Maven Analytics (safe for public use).
+- All personal data anonymized.
+
+---
+
 ## ✅ Conclusion
 
 The Candy Distributor is on a strong growth trajectory with a **66% gross profit margin**. Key areas for improvement include aligning division targets, promoting profitable products, and strategically expanding into untapped city markets. Data-driven action on these fronts will scale revenue and enhance long-term profitability.
