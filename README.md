@@ -101,4 +101,14 @@ The Candy Distributor is on a strong growth trajectory with a **66% gross profit
 
 ---
 
+## 📬 Let's Connect
+
+- 📧 Email: prasenjit8841@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/prasenjitsaha8841/
+---
+
+⭐ **If you found this project useful, please give it a star!**
+
+---
+
 
